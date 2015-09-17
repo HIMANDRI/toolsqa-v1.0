@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25672" started-at="2015-09-17T14:45:00Z" finished-at="2015-09-17T14:45:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25672" started-at="2015-09-17T14:45:00Z" finished-at="2015-09-17T14:45:26Z">
+      <class name="datadriven.AjaxTesting">
+        <test-method status="PASS" signature="setpage()[pri:0, instance:datadriven.AjaxTesting@781a6ff5]" name="setpage" is-config="true" duration-ms="13028" started-at="2015-09-17T20:15:00Z" finished-at="2015-09-17T20:15:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setpage -->
+        <test-method status="PASS" signature="testAjax()[pri:0, instance:datadriven.AjaxTesting@781a6ff5]" name="testAjax" duration-ms="12442" started-at="2015-09-17T20:15:13Z" finished-at="2015-09-17T20:15:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAjax -->
+        <test-method status="PASS" signature="closebrwsr()[pri:0, instance:datadriven.AjaxTesting@781a6ff5]" name="closebrwsr" is-config="true" duration-ms="160" started-at="2015-09-17T20:15:26Z" finished-at="2015-09-17T20:15:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrwsr -->
+      </class> <!-- datadriven.AjaxTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
